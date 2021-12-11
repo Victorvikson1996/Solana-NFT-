@@ -1,0 +1,19 @@
+{
+  "name": "CHAINS",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6V8vq7bR95TgA7Qf6Zmn3fBZJoKaa4U4GstJHbagj6kh",
+        "share": 100
+      }
+    ]
+  }
+}
